@@ -6,7 +6,7 @@
     "useMendCheckNames" : false       
   },          
   "issueSettings": {           
-    "issueType": "DEPENDENCY",                  
+    "issueType": "DEPENDENCY",                   
     "minSeverityLevel": "LOW"       
   },           
   "remediateSettings": {   
